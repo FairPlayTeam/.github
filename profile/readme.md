@@ -40,7 +40,7 @@ We're not trying to build the next YouTube. FairPlay is for people who got fed u
 
 Actively developed. It works but it's not stable yet.
 
-A pre-release is running at [fairplay.video](https://fairplay.video/) and gets updated regularly.
+A pre-release is running at [fairplayvideo.org](https://fairplayvideo.org/) and gets updated regularly.
 
 Development moves in iterations, sometimes fast, sometimes less so.
 
