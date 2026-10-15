@@ -13,7 +13,7 @@
 
 [![License: AGPLv3](https://img.shields.io/badge/license-AGPLv3-blueviolet?style=flat-square)](LICENSE)
 [![Status: Actively developed](https://img.shields.io/badge/status-actively%20developed-brightgreen?style=flat-square)]()
-[![Pre-release available](https://img.shields.io/badge/pre--release-fairplay.video-orange?style=flat-square)](https://fairplay.video)
+[![Pre-release available](https://img.shields.io/badge/pre--release-fairplayvideo.org-orange?style=flat-square)](https://fairplayvideo.org)
 
 </div>
 
